@@ -1,0 +1,5 @@
+package com.example.sutt_round_1
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
